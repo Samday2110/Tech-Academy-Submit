@@ -1,0 +1,46 @@
+header{
+    background-color: aliceblue;
+    color: brown;
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.navbar{
+    background-color: black;
+    overflow: hidden;
+    color: black;
+}
+.pictures{
+    text-align: center;
+}
+h3.form {
+    color:blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+form    {
+    color: blue
+}
+
+button{
+    color:white;
+    background-color: blue;
+    text-align: center;
+    cursor:pointer;
+    height:40px;
+    width:80px;
+    border:1px;
+    border-radius:100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+button:hover    {
+    color:white;
+    background-color: rgb(9, 238, 66);
+}
